@@ -5,6 +5,7 @@ My LinkedIn page: https://www.linkedin.com/in/PavelAkapian
 Additional:
 some code uploaded on RPubs http://rpubs.com/PavelAkapian/
 http://rpubs.com/PavelAkapian/154834
+(lab about linear congruent random number generators and Marsaglia's)
 
 PS. Scikit Numeric notebook is from my coursework i'm working on right now. Datasets for this notebook were made using R and Selenium (web-scapper). But I don't want to show this code for legal purposes.
 
@@ -15,5 +16,6 @@ PS. Scikit Numeric notebook is from my coursework i'm working on right now. Data
 Дополнительно:
 некоторый код на R загруженный на RPubs в виде отчета http://rpubs.com/PavelAkapian/
 http://rpubs.com/PavelAkapian/154834
+(отчет по лабораторной с построением линейного генератора и генератора Марсальи)
 
 PS. Scikit Numeric notebook часть моей курсовой работы, над которой я работаю в данное время. Выборки были получены при помощи R и веб-драйвера Selenium (написан web-scapper). Однако воздержусь от опубликования исходного код скрэппера и самих данных по юридическим соображениям. 
